@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704250869353",
+    "project_id": "lovescore-af368",
+    "storage_bucket": "lovescore-af368.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704250869353:android:214f9e39d9c69b4cef54f8",
+        "android_client_info": {
+          "package_name": "com.example.livescore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_CHReltjMWh6gQfr7-9nIchswzi9TtZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
